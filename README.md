@@ -26,9 +26,10 @@ I am a detail-oriented administrative and data support professional based in Joh
 - Web-based platforms
 
 ## 🌍 Languages
-- English (Fluent)
+- English 
 - isiZulu
 - Sesotho
+- German
 
 ## 📌 Career Goal
 To contribute to AI and data-driven projects by delivering accurate, consistent, and high-quality work.
