@@ -1,5 +1,5 @@
 # Itumelengsenese
-</>code
+
 # Hi, I'm Itumeleng 👋
 
 I am a detail-oriented administrative and data support professional based in Johannesburg, South Africa.
